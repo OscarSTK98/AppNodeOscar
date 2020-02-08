@@ -1,0 +1,19 @@
+{
+  "name": "appnodeoscar",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarSTK98/AppNodeOscar.git"
+  },
+  "author": "Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarSTK98/AppNodeOscar/issues"
+  },
+  "homepage": "https://github.com/OscarSTK98/AppNodeOscar#readme"
+}
